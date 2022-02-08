@@ -5,3 +5,4 @@
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-1.png)
 б) Отключен анимацию в политике Tools → group policy management → Moscow.wsr → Animation → Edit → policies → administrative templates → system → logon → show first sign-in animation → disabled.
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-2.png)
+c) Применение групповой политики Tools → group policy management → Moscow.wsr → IT → link an existing gpo → Animation → ok
