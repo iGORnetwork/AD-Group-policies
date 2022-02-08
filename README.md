@@ -12,3 +12,4 @@ c) Применение групповой политики Tools → group poli
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-4.png)
 б) Настраиваем политику Tools → group policy management → Moscow.wsr → IT → Edit → policies → windows settings → security settings → restricted groups → add groups → Name IT → ok
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-5.png)
+с) Применяем политику к группе this group is a member → add → Browse → administrator → ок → aply → ok 
