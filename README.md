@@ -11,3 +11,4 @@ c) Применение групповой политики Tools → group poli
 а) Создаем групповую политику Tools → group policy management → Moscow.wsr → create a gpo in this domain, and link it here → Add Name IT
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-4.png)
 б) Настраиваем политику Tools → group policy management → Moscow.wsr → IT → Edit → policies → windows settings → security settings → restricted groups → add groups → Name IT → ok
+![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-5.png)
