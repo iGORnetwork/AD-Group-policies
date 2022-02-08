@@ -24,3 +24,4 @@ b) Настраиваем политику Tools → group policy management →
 c) Применяем политику Tools → group policy management → Moscow.wsr → homePage → Edit → user configuration → preferences → control panel → settings internet settings → new → internet explorer 10 → www.moskow.wsr → Start homePage → apply → ok 
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-9.png)
 d) Проверяем CLI1 Saha
+![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/CLI1-10.png)
