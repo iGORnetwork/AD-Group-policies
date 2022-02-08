@@ -15,3 +15,4 @@ c)Применение групповой политики Tools → group polic
 с)Применяем политику к группе this group is a member → add → Browse → administrator → ок → aply → ok 
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-6.png)
 d)Проверяем CLI1 Saha
+![](
