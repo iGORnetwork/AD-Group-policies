@@ -21,3 +21,4 @@ a) Создаем групповую политику Tools → group policy man
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-7.png)
 b) Настраиваем политику Tools → group policy management → Moscow.wsr → homePage → Edit → policies → administrative → templates windows → components microsoft → edge configure home page → enabled → www.moskow.wsr → apply → ok
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-8.png)
+c) Применяем политику Tools → group policy management → Moscow.wsr → homePage → Edit → user configuration → preferences → control panel → settings internet settings → new → internet explorer 10 → www.moskow.wsr → Start homePage → apply → ok 
