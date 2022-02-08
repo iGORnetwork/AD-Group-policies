@@ -19,4 +19,5 @@ d)Проверяем CLI1 Saha
 3) в браузерах Microsoft Edge должна быть настроена стартовая страница – www.moskow.wsr
 a) Создаем групповую политику Tools → group policy management → Moscow.wsr → create a gpo in this domain, and link it here → name homePage → ок
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-7.png)
-b) Настраиваем политику Tools → group policy management → Moscow.wsr → homePage → Edit → policies → administrative → templates windows → components microsoft → edge configure home page → enabled → www.moskow.wsr
+b) Настраиваем политику Tools → group policy management → Moscow.wsr → homePage → Edit → policies → administrative → templates windows → components microsoft → edge configure home page → enabled → www.moskow.wsr → apply → ok
+![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-8.png)
