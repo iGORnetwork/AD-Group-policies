@@ -16,3 +16,4 @@ c)Применение групповой политики Tools → group polic
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-6.png)
 d)Проверяем CLI1 Saha
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/CLI1-1.png)
+3) в браузерах IE Explorer и Microsoft Edge должна быть настроена стартовая страница – www.moskow.wsr
