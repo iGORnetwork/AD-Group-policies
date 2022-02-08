@@ -17,3 +17,4 @@ c)Применение групповой политики Tools → group polic
 d)Проверяем CLI1 Saha
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/CLI1-1.png)
 3) в браузерах IE Explorer и Microsoft Edge должна быть настроена стартовая страница – www.moskow.wsr
+a) Создаем групповую политику Tools → group policy management → Moscow.wsr → create a gpo in this domain, and link it here → name homePage → ок
