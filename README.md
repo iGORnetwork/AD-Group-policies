@@ -33,3 +33,4 @@ d) Проверяем CLI1 Saha
 c) Применяем политику 
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-13.png)
 d)Проверяем CLI1 Saha
+![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/CLI1-14.png)
