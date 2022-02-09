@@ -25,3 +25,6 @@ c) Применяем политику Tools → group policy management → Mos
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-9.png)
 d) Проверяем CLI1 Saha
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/CLI1-10.png)
+4) все пользователи при первом входе в домен с компьютера CLI1 должны видеть на рабочем столе ярлык программы Калькулятор.
+а)Создаем групповую политику Tools → group policy management → Moscow.wsr → create a gpo in this domain, and link it here → Add Name Calculator → ok
+б)Настраиваем политику Tools → group policy management → Moscow.wsr → IT → Edit → policies → windows settings → Shortcuts → New Shortcut 
