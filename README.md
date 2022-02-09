@@ -34,3 +34,5 @@ c) Применяем политику
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-13.png)
 d)Проверяем CLI1 Saha
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/CLI1-14.png)
+# DCA
+Настройте необходимые политики, обеспечивающие использование сервера DCA.moskow.wsr в качестве доверенного центра сертификации.
