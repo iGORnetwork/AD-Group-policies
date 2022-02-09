@@ -30,3 +30,4 @@ d) Проверяем CLI1 Saha
 
 б)Настраиваем политику Tools → group policy management → Moscow.wsr → IT → Edit → policies → windows settings → Shortcuts → New Shortcut 
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-12.png)
+c) Применяем политику 
