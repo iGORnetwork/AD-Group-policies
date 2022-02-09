@@ -37,3 +37,4 @@ d)Проверяем CLI1 Saha
 # DCA
 Настройте необходимые политики, обеспечивающие использование сервера DCA.moskow.wsr в качестве доверенного центра сертификации.
 1) Установка центра сертификации Manage →	Add Roles and Features → role-based or feature-based installation → next →  active directory certificate services → next → next → install
+![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DCA-1.png)
