@@ -42,3 +42,4 @@ d)Проверяем CLI1 Saha
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DCA-2.png)
 3) Создаем групповую политику Tools → group policy management → Moscow.wsr → create a gpo in this domain, and link it here → Add Name Certc. 
 4) Настраиваем политику  Tools → group policy management → Moscow.wsr → Certc → Edit → policies → windows settings → security settings → public key
+![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DC1-15.png)
