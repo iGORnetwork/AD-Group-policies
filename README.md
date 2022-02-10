@@ -40,4 +40,5 @@ d)Проверяем CLI1 Saha
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DCA-1.png)
 2) настройка центра сертификации  config active directory config certificate  → next certificate authority → next →  → next → next → config
 ![](https://github.com/iGORnetwork/AD-Group-policies/blob/main/DCA-2.png)
-3) Создание сертификата 
+3) Создаем групповую политику Tools → group policy management → Moscow.wsr → create a gpo in this domain, and link it here → Add Name Certc. 
+4) Настраиваем политику  Tools → group policy management → Moscow.wsr → Certc → Edit → policies → windows settings → security settings → public key
